@@ -1,4 +1,4 @@
-# Glossary-extraction
+# Glossary-extraction (RU)
 The research project
 
 [Presentation](https://github.com/rubygitflow/Glossary-extraction/blob/main/Glossary-extraction.BocharovNV.odp)
