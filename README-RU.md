@@ -1,5 +1,5 @@
-# Glossary-extraction
-Исследовательский проект по разметке глоссария в тексте
+# Glossary-extraction (РУС)
+Исследовательский проект по разметке глоссария в тексте на русском яыке
 
 [Презентация работы](https://github.com/rubygitflow/Glossary-extraction/blob/main/Glossary-extraction.BocharovNV.odp)
 
